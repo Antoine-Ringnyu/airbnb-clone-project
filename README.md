@@ -44,3 +44,20 @@ This project enables learners to gain practical experience in building scalable 
 - **GitHub Actions** – CI/CD platform for automating testing and deployment pipelines.  
 
 ---
+
+## 🗄 Database Design  
+
+**Entities & Example Fields:**  
+- **Users**: `id`, `name`, `email`, `password_hash`, `role`  
+- **Properties**: `id`, `title`, `description`, `location`, `price`, `owner_id`  
+- **Bookings**: `id`, `property_id`, `user_id`, `start_date`, `end_date`, `status`  
+- **Reviews**: `id`, `user_id`, `property_id`, `rating`, `comment`  
+- **Payments**: `id`, `booking_id`, `amount`, `status`, `payment_date`  
+
+**Relationships:**  
+- A **User** can own multiple **Properties**.  
+- A **Booking** belongs to both a **User** and a **Property**.  
+- A **Review** is linked to both a **User** and a **Property**.  
+- A **Payment** is associated with a **Booking**.  
+
+---
