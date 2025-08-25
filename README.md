@@ -72,3 +72,17 @@ This project enables learners to gain practical experience in building scalable 
 
 ---
 
+## 🔒 API Security  
+Key measures include:  
+- **Authentication** – Secure login with JWT or OAuth.  
+- **Authorization** – Role-based access control for guests, hosts, and admins.  
+- **Rate Limiting** – Protects against excessive requests or abuse.  
+- **Data Validation & Sanitization** – Prevents SQL injection and XSS attacks.  
+- **Encryption** – Ensures sensitive data like passwords and payments are secure.  
+
+**Why security matters:**  
+- Protects user privacy and financial data.  
+- Prevents unauthorized access to the system.  
+- Builds trust between users and the platform.  
+
+---
