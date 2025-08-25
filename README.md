@@ -61,3 +61,14 @@ This project enables learners to gain practical experience in building scalable 
 - A **Payment** is associated with a **Booking**.  
 
 ---
+
+## ✨ Feature Breakdown  
+- **User Management** – Secure registration, login, and profile management.  
+- **Property Management** – Hosts can list, edit, and remove their properties.  
+- **Booking System** – Users can browse, book, and cancel reservations.  
+- **Review System** – Guests can leave reviews and ratings for properties.  
+- **Payment Handling** – Secure processing of booking payments.  
+- **Search & Filters** – Find properties by location, price, and amenities.  
+
+---
+
