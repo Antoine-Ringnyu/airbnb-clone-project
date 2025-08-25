@@ -86,3 +86,19 @@ Key measures include:
 - Builds trust between users and the platform.  
 
 ---
+
+## 🚀 CI/CD Pipeline  
+- **What is CI/CD?**  
+  Continuous Integration (CI) ensures that new code changes are automatically tested and integrated into the main branch. Continuous Deployment (CD) automates delivery of tested code into production.  
+
+- **Why it matters?**  
+  - Faster, more reliable releases.  
+  - Reduces human errors in deployment.  
+  - Improves development team efficiency.  
+
+- **Tools Used:**  
+  - **GitHub Actions** – Automates testing and deployment workflows.  
+  - **Docker** – Ensures consistent environments across development and production.  
+  - **(Optional) Kubernetes** – Orchestration for large-scale deployments.  
+
+---
