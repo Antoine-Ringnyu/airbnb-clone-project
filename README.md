@@ -25,3 +25,13 @@ This project enables learners to gain practical experience in building scalable 
 - **GitHub Actions** – CI/CD platform for automating testing and deployment pipelines.  
 
 ---
+
+## 👥 Team Roles  
+- **Backend Developer** – Builds backend logic, APIs, and integrations with external services.  
+- **Database Administrator (DBA)** – Designs and optimizes the relational database schema, manages queries, and ensures data integrity.  
+- **DevOps Engineer** – Manages CI/CD pipelines, Docker containers, and deployment processes.  
+- **Frontend Developer** – (Optional) Creates user interfaces to consume the backend APIs.  
+- **QA Engineer** – Tests features, ensures functionality, and maintains quality standards.  
+- **Project Manager** – Oversees tasks, timelines, and coordinates team collaboration.  
+
+---
