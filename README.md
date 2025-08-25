@@ -35,3 +35,12 @@ This project enables learners to gain practical experience in building scalable 
 - **Project Manager** – Oversees tasks, timelines, and coordinates team collaboration.  
 
 ---
+
+## 🛠 Technology Stack  
+- **Django** – A high-level Python framework for backend and RESTful/GraphQL API development.  
+- **MySQL** – A relational database for managing structured data such as users, bookings, and payments.  
+- **GraphQL** – Query language for efficient and flexible data retrieval.  
+- **Docker** – Containerization tool for creating consistent development and production environments.  
+- **GitHub Actions** – CI/CD platform for automating testing and deployment pipelines.  
+
+---
